@@ -1,14 +1,11 @@
 .main{
     display: flex;
     justify-content: center;
-}
-.abc{
-    width: 75%;
-    display: flex;
-    align-items: center;
+    text-align: center;
+    width: 97%;
 }
 .index{
-    width: 31%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -18,8 +15,11 @@
     border-radius: 50%;
     width: 25px;
     height: 25px;
-    background-color: rgb(27, 0, 126);
+    background-color: rgb(151, 149, 160);
     color: white;
+}
+.stage1{
+    background-color:rgb(34, 131, 241);
 }
 .index-container{
     display: flex;
@@ -27,6 +27,6 @@
     width: 100%;
 }
 hr{
-    width: 90%;
+    width: 85%;
     height: 0;
 }

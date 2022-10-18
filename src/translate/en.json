@@ -1,0 +1,32 @@
+{
+    "translation":{
+        "customerNameEng": "Customer Name (English)",
+        "customerNameThai":"Customer Name (Thai)",
+        "customerType":"Customer type",
+        "companyType":"Company type",
+        "businessType":"Business type",
+        "nationality":"Nationality",
+        "taxID":"ID no./Tax ID",
+        "represent":"Representative person name",
+        "customerContact":"Customer contact name",
+        "tel":"Telephone no",
+        "zip":"Zip code",
+        "addressEng":"Address (English)",
+        "soiEng":"Soi (English)",
+        "roadEng":"Road (English)",
+        "tambolEng":"Tambol (English)",
+        "amperEng":"Amper (English)",
+        "jangwatEng":"Jangwat (English)",
+        "addressThai":"Address (Thai)",
+        "soiThai":"Soi (Thai)",
+        "roadThai":"Road (Thai)",
+        "tambolThai":"Tambol (Thai)",
+        "amperThai":"Amper (Thai)",
+        "jangwatThai":"Jangwat (Thai)",
+        "constractor":"Constractor",
+        "endUser":"End User",
+        "serviceLocation":"Service Location",
+        "billing":"Billing",
+        "continue":"Continue"
+    }
+}

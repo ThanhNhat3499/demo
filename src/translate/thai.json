@@ -1,0 +1,32 @@
+{
+    "translation":{
+        "customerNameEng": "ชื่อลูกค้า (ภาษาอังกฤษ)",
+        "customerNameThai":"ชื่อลูกค้า (ภาษาไทย)",
+        "customerType":"ประเภทลูกค้า",
+        "companyType":"ประเภท บริษัท",
+        "businessType":"ประเภทธุรกิจ",
+        "nationality":"สัญชาติ",
+        "taxID":"เลขประจำตัวประชาชน/เลขประจำตัวผู้เสียภาษี",
+        "represent":"ชื่อตัวแทน",
+        "customerContact":"ชื่อผู้ติดต่อของลูกค้า",
+        "tel":"ไม่มีโทรศัพท์",
+        "zip":"รหัสไปรษณีย์",
+        "addressEng":"ที่อยู่ (ภาษาอังกฤษ)",
+        "soiEng":"ซอย (ภาษาอังกฤษ)",
+        "roadEng":"ถนน (ภาษาอังกฤษ)",
+        "tambolEng":"ตำบล (ภาษาอังกฤษ)",
+        "amperEng":"แอมแปร์ (อังกฤษ)",
+        "jangwatEng":"แจ้งวัฒนะ (ภาษาอังกฤษ)",
+        "addressThai":"ที่อยู่ (ภาษาไทย)",
+        "soiThai":"ซอย (ไทย)",
+        "roadThai":"ถนน (ไทย)",
+        "tambolThai":"ตำบล (ไทย)",
+        "amperThai":"แอมแปร์ (ไทย)",
+        "jangwatThai":"แจ้งวัฒนะ (ไทย)",
+        "constractor":"ผู้รับเหมา",
+        "endUser":"ผู้ใช้",
+        "serviceLocation":"สถานที่ให้บริการ",
+        "billing":"การเรียกเก็บเงิน",
+        "continue":"ดำเนินต่อ"
+    }
+}
