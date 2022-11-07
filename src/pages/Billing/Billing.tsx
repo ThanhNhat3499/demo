@@ -17,11 +17,25 @@ import "./style.css";
 function Billing(props: any) {
   const location = useLocation();
   const { register, handleSubmit } = useForm();
+
   const onSubmit = (data: any) => {
     const information = {
       ...location.state,
       billing: data
     };
+
+    fetch("localhost://3000", {
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      method: "POST",
+      body: JSON.stringify(information)
+    })
+      .then((response: any) => {
+        if (response?.status === 2000)
+          alert("Da gui mail thanh cong")
+      })
     console.log(information);
   };
   const style = {
